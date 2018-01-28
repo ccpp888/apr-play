@@ -1,1 +1,1 @@
-Predictive playing
+Predictive play application.
